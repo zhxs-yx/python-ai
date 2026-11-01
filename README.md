@@ -1,2 +1,2 @@
 # python-ai
-学习aikaifa
+学习ai开发
